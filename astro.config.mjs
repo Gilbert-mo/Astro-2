@@ -6,6 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), react()],
-  site: 'https://Gilbert-mo.github.io',
+  site: 'https://gilbert-mo.github.io',
   base: '/Azuabana-example'
 });
